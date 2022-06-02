@@ -8,8 +8,8 @@
   <name>ThisIsFolder</name>
   <url>http://maven.apache.org</url>
 <properties>					
-  <maven.compiler.source>18</maven.compiler.source>					
-  <maven.compiler.target>18</maven.compiler.target>					
+  <maven.compiler.source>11</maven.compiler.source>					
+  <maven.compiler.target>11</maven.compiler.target>					
 </properties>
 
 <!-- This is from Eclipse -->
